@@ -17,19 +17,24 @@ public class Transliterate {
 
         List<String> filePaths = Utils.getFileList(folder_path + "ink_verses/");
 
+        System.out.println(filePaths.size() + " ");
+        filePaths.remove(".DS_Store");
         List<String> inukString = new ArrayList<>();
         List<String> transliteratedString = new ArrayList<>();
-
+        int count = 0;
         for (String file : filePaths) {
             Reader reader = new InputStreamReader(new FileInputStream(folder_path + "ink_verses/" + file), Charset.defaultCharset());
             Reader bufferReader = new BufferedReader(reader);
             String st;
             while ((st = ((BufferedReader) bufferReader).readLine()) != null) {
+                st = st.replaceAll("[\\t\\n\\r]+", "");
                 inukString.add(st);
                 transliteratedString.add(transcodeToRoman(st));
+                count++;
             }
         }
 
+        System.out.println("count : " + count + " files: " + filePaths.size());
         writeToFiles(inukString, transliteratedString);
     }
 

@@ -1,7 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d673de43-a893-44db-b967-8a97cdf738df" name="Default" comment="" />
+    <list default="true" id="d673de43-a893-44db-b967-8a97cdf738df" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eng_original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eng_verses/Ezra_8" beforeDir="false" afterPath="$PROJECT_DIR$/data/eng_verses/Ezra_8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eng_verses/John_7" beforeDir="false" afterPath="$PROJECT_DIR$/data/eng_verses/John_7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/eng_verses/Num_31" beforeDir="false" afterPath="$PROJECT_DIR$/data/eng_verses/Num_31" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/2Chr_24" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/2Chr_24" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Acts_8" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Acts_8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Acts_9" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Acts_9" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Ezek_1" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Ezek_1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Ezek_41" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Ezek_41" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/John_12" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/John_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/John_16" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/John_16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/John_18" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/John_18" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/John_19" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/John_19" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Mark_16" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Mark_16" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Mic_5" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Mic_5" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Ps_119" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Ps_119" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ink_verses/Rev_12" beforeDir="false" afterPath="$PROJECT_DIR$/data/ink_verses/Rev_12" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inuk_original" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/inuk_roman" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InuktitutToRoman/EnglishCombiner.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InuktitutToRoman/EnglishCombiner.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/InuktitutToRoman/Transliterate.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InuktitutToRoman/Transliterate.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EnglishCombiner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EnglishCombiner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transliterate.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transliterate.java" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,12 +43,12 @@
     <fileColor scope="Non-Project Files (Material Oceanic)" color="2E3C43" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="Transliterate.java" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Transliterate.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/Transliterate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="391">
-              <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
+            <state relative-caret-position="319">
+              <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
               <folding>
                 <element signature="method#transcodeToRoman#0;class#Transliterate#0" />
               </folding>
@@ -31,26 +56,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Utils.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Utils.java">
+      <file leaf-file-name="DataValidator.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/DataValidator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="110">
-              <caret line="14" column="45" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
+            <state relative-caret-position="273">
+              <caret line="95" column="82" selection-start-line="95" selection-start-column="82" selection-end-line="95" selection-end-column="82" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#250#258#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="EnglishCombiner.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/EnglishCombiner.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-6">
-              <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="method#getLineNumber#0;class#DataValidator#0" />
+                <element signature="method#writeToFiles#0;class#DataValidator#0" />
+                <element signature="method#writeInukFilesAgain#0;class#DataValidator#0" />
+                <element signature="method#transcodeToRoman#0;class#DataValidator#0" />
               </folding>
             </state>
           </provider>
@@ -65,24 +81,47 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/EnglishCombiner.java" />
         <option value="$PROJECT_DIR$/src/Utils.java" />
+        <option value="$PROJECT_DIR$/src/EnglishCombiner.java" />
         <option value="$PROJECT_DIR$/src/Transliterate.java" />
+        <option value="$PROJECT_DIR$/data/eng_verses/Num_31" />
+        <option value="$PROJECT_DIR$/data/eng_verses/Ezra_8" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Acts_8" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Mic_5" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Acts_9" />
+        <option value="$PROJECT_DIR$/data/ink_verses/John_16" />
+        <option value="$PROJECT_DIR$/data/ink_verses/John_18" />
+        <option value="$PROJECT_DIR$/data/ink_verses/John_19" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Ezek_41" />
+        <option value="$PROJECT_DIR$/data/ink_verses/2Chr_24" />
+        <option value="$PROJECT_DIR$/data/ink_verses/John_12" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Ezek_1" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Mark_16" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Rev_12" />
+        <option value="$PROJECT_DIR$/data/ink_verses/Ps_119" />
+        <option value="$PROJECT_DIR$/data/eng_verses/John_7" />
+        <option value="$PROJECT_DIR$/src/DataValidator.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="877" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,7 +143,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -125,9 +163,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.EnglishCombiner">
+  <component name="RunManager" selected="Application.DataValidator">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="DataValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="DataValidator" />
+      <module name="InuktitutToRoman" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
     <configuration name="EnglishCombiner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EnglishCombiner" />
@@ -198,11 +241,13 @@
     <list>
       <item itemvalue="Application.Transliterate" />
       <item itemvalue="Application.EnglishCombiner" />
+      <item itemvalue="Application.DataValidator" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.EnglishCombiner" />
+        <item itemvalue="Application.DataValidator" />
         <item itemvalue="Application.Transliterate" />
+        <item itemvalue="Application.EnglishCombiner" />
       </list>
     </recent_temporary>
   </component>
@@ -220,31 +265,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32984293" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="9" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880098" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32880098" />
+      <window_info id="Designer" order="2" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25679544" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39921466" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39802226" />
+      <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -260,19 +305,41 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/EnglishCombiner.java</url>
-          <line>27</line>
+          <line>31</line>
           <properties />
           <option name="timeStamp" value="1" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataValidator.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DataValidator.java</url>
+          <line>142</line>
+          <properties />
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="3" />
+      <option name="time" value="6" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/data/inuk_roman">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="31144" column="34" lean-forward="true" selection-start-line="31144" selection-start-column="34" selection-end-line="31144" selection-end-column="34" />
+        <state relative-caret-position="341">
+          <caret line="25" column="10" lean-forward="true" selection-start-line="25" selection-start-column="10" selection-end-line="25" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Transliterate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <element signature="method#transcodeToRoman#0;class#Transliterate#0" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -287,20 +354,295 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/1Kgs_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1187" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/1Chr_2">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-46" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/1Chr_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-650">
+          <caret line="10" column="54" lean-forward="true" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/1Chr_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="39" lean-forward="true" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/data/inuk_original">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-886189" />
+        <state relative-caret-position="-715333" />
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Matt_18">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Mark_7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="14" column="141" lean-forward="true" selection-start-line="14" selection-start-column="141" selection-end-line="14" selection-end-column="141" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/1Chr_24">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="14" column="16" lean-forward="true" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/1Chr_24">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="12" column="29" lean-forward="true" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Ezek_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="55" selection-start-line="15" selection-start-column="55" selection-end-line="15" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Ezek_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="15" column="20" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Mark_7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="6" selection-start-line="16" selection-end-line="16" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Num_31">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="68" selection-start-line="18" selection-start-column="68" selection-end-line="18" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Ezra_8">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Gen_29">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-443" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Gen_29">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/data/eng_original">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-714628" />
+        <state relative-caret-position="266">
+          <caret line="31081" column="107" selection-start-line="31081" selection-start-column="107" selection-end-line="31081" selection-end-column="107" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Matt_21">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-413">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/inuk_roman">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="31116" selection-start-line="31116" selection-end-line="31116" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Num_31">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="29" column="98" lean-forward="true" selection-start-line="29" selection-start-column="98" selection-end-line="29" selection-end-column="98" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Ezra_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="90" lean-forward="true" selection-start-line="18" selection-start-column="90" selection-end-line="18" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Acts_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="37" column="63" selection-start-line="37" selection-start-column="63" selection-end-line="37" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Luke_17">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-118">
+          <caret line="14" column="55" lean-forward="true" selection-start-line="14" selection-start-column="55" selection-end-line="14" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Ezek_41">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="14" column="6" selection-start-line="14" selection-end-line="14" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Acts_8">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="37" selection-start-column="37" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Mic_5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="92">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Acts_9">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="18" column="23" selection-start-line="18" selection-start-column="23" selection-end-line="18" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/John_16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="69">
+          <caret line="3" column="82" selection-start-line="3" selection-start-column="82" selection-end-line="3" selection-end-column="82" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/John_18">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="341">
+          <caret line="37" column="34" selection-start-line="37" selection-start-column="34" selection-end-line="37" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Ezek_41">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="322">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/2Chr_24">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="13" column="177" selection-start-line="13" selection-start-column="177" selection-end-line="13" selection-end-column="177" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/John_12">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="35" column="59" selection-start-line="35" selection-start-column="59" selection-end-line="35" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/John_19">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Ezek_1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="27" column="54" selection-start-line="27" selection-start-column="54" selection-end-line="27" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Mark_9">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="43" column="55" selection-start-line="43" selection-start-column="55" selection-end-line="43" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Mark_16">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Rev_12">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Ps_119">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="173" column="23" lean-forward="true" selection-start-line="173" selection-start-column="23" selection-end-line="173" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Mark_16">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="12" column="52" selection-start-line="12" selection-start-column="52" selection-end-line="12" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Rev_12">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="16" column="117" selection-start-line="16" selection-start-column="117" selection-end-line="16" selection-end-column="117" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Ps_119">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="171" column="36" lean-forward="true" selection-start-line="171" selection-start-column="36" selection-end-line="171" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/Luke_17">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-466" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/John_7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-834" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/eng_verses/John_7">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="362">
+          <caret line="51" column="99" selection-start-line="51" selection-start-column="99" selection-end-line="51" selection-end-column="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/data/ink_verses/Mark_9">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-769" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/EnglishCombiner.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-6">
-          <caret line="19" column="31" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="161">
+          <caret line="7" column="3" lean-forward="true" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -309,10 +651,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/Transliterate.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="391">
-          <caret line="23" column="100" selection-start-line="23" selection-start-column="100" selection-end-line="23" selection-end-column="100" />
+        <state relative-caret-position="319">
+          <caret line="61" column="23" selection-start-line="61" selection-start-column="23" selection-end-line="61" selection-end-column="23" />
           <folding>
             <element signature="method#transcodeToRoman#0;class#Transliterate#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/DataValidator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="95" column="82" selection-start-line="95" selection-start-column="82" selection-end-line="95" selection-end-column="82" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#getLineNumber#0;class#DataValidator#0" />
+            <element signature="method#writeToFiles#0;class#DataValidator#0" />
+            <element signature="method#writeInukFilesAgain#0;class#DataValidator#0" />
+            <element signature="method#transcodeToRoman#0;class#DataValidator#0" />
           </folding>
         </state>
       </provider>
